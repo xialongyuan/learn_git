@@ -3,5 +3,6 @@ int main(){
 int aa=1;
 int bb=2;
 int cc=aa+bb;
+std::cout<<cc<<std::endl;
 return 0
 }
