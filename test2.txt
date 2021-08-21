@@ -2,4 +2,6 @@ class AA(){
 public:
 aa();
 ~aa();
+private:
+int a_aa;
 }
